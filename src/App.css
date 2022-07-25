@@ -1,0 +1,34 @@
+.App
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.app-text
+{
+    border-bottom: 5px solid rgb(0, 0, 0);
+}
+
+.app-div
+{
+    background-color: #e1f0eb;
+}
+.app-div h2
+{
+    text-align: center;
+}
+
+.item-expense
+{
+    border: 2px solid rgb(83, 71, 71);
+    background-color: white;
+    font-weight: bold;
+}
+
+.single-item
+{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
